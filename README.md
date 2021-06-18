@@ -1,3 +1,6 @@
+# Design
+ - https://www.figma.com/file/1OXmMW59ceqWiSVy7nNlw9/BuildTest?node-id=89%3A0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,7 +48,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Design
- - https://www.figma.com/file/1OXmMW59ceqWiSVy7nNlw9/BuildTest?node-id=89%3A0
 
 
